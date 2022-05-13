@@ -24,3 +24,9 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+@media screen and (orientation: portrait) {
+  .controlPane {
+    width: 400px;
+  }
+}
